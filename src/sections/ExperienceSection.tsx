@@ -54,6 +54,11 @@ export const ExperienceSection: React.FC = () => {
                     </div>
                     <p className="text-base font-semibold text-accent-blue-light mt-0.5">
                       {exp.company}
+                      {exp.location && (
+                        <span className="text-content-muted font-normal text-xs sm:text-sm ml-2">
+                          | {exp.location}
+                        </span>
+                      )}
                     </p>
                   </div>
 

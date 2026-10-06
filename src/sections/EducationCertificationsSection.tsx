@@ -88,6 +88,23 @@ export const EducationCertificationsSection: React.FC = () => {
                 </div>
               ))}
             </div>
+
+            {/* Languages */}
+            <div className="mt-8 p-5 rounded-2xl glass-card border border-border-subtle">
+              <span className="text-xs font-bold uppercase tracking-wider text-content-heading block mb-3">
+                Languages
+              </span>
+              <div className="flex flex-wrap gap-2">
+                {portfolioData.languages.map((lang) => (
+                  <span
+                    key={lang}
+                    className="px-3.5 py-1.5 rounded-full text-xs font-medium bg-white/[0.04] border border-white/10 text-white"
+                  >
+                    {lang}
+                  </span>
+                ))}
+              </div>
+            </div>
           </div>
         </div>
       </div>

@@ -1,0 +1,55 @@
+MUHAMMAD RASIN M
+SOFTWARE DEVELOPER | DATA & AI
+Kozhikode, Kerala, India | +91 88917 00925 | muhamdrasin@gmail.com | linkedin.com/in/muhmdrasin963 | muhammad-rasin.vercel.app
+
+PROFESSIONAL SUMMARY
+Results-driven Software Developer and AI/Data Professional with hands-on experience in Python development, data analytics, machine learning, artificial intelligence, and web technologies. Currently working as a Software Developer at Yoro Technologies, Nadapuram, Kozhikode, with experience in developing practical software solutions and applying programming and analytical skills to real-world projects. Strong foundation in Python, SQL, Power BI, Excel, Machine Learning, Data Analytics, HTML, CSS, and JavaScript, React. Proven ability to transform data into meaningful insights, develop functional applications, solve technical problems, and contribute effectively to technology-driven projects.
+
+CORE SKILLS
+Software Development | Python | SQL | Data Analytics | Machine Learning | Power BI | Microsoft Excel | Tableau | Web Development | HTML | CSS | JavaScript | React.js | Node.js | Data Visualization | Database Management | Problem Solving | Technical Analysis.
+
+PROFESSIONAL EXPERIENCE
+
+SOFTWARE DEVELOPER                                     September 2026 – Present
+Yoro Technologies | Nadapuram, Kozhikode, Kerala
+• Develop and support software solutions using programming and technology skills.
+• Contribute to software development activities and project-based technical tasks.
+• Work with team members to understand requirements and contribute to effective technical solutions.
+• Participate in developing and improving technology-driven applications and workflows.
+
+AI / PYTHON INTERN                                     October 2025 - January 2026
+Ospyn Technologies
+• Developed a document-based AI chatbot using Python.
+• Built document upload and intelligent question-answering functionality.
+• Worked with AI tools and participated in project-based development.
+• Gained practical exposure to real-world AI and Python solutions.
+
+KEY PROJECTS
+
+DOCUMENT-BASED AI CHATBOT – RAG USING OLLAMA AND FAISS
+Developed a Retrieval-Augmented Generation (RAG) chatbot enabling users to upload PDF and CSV documents and receive context-aware answers.
+Implemented document processing and intelligent question-answering functionality using Streamlit, FAISS, Ollama, and Python.
+
+CUSTOMER BEHAVIOUR CLASSIFICATION ANALYSIS
+Analyzed customer purchase and feedback datasets to identify satisfaction drivers, loyalty indicators, and retention patterns.
+Applied machine learning techniques for customer behaviour analysis and data-driven insights.
+
+EDUCATION
+
+BACHELOR OF COMPUTER APPLICATIONS (BCA)                2023 – 2026
+Yenepoya University
+
+DIPLOMA IN DATA SCIENCE                                2025
+Edure Institution, Kochi
+
+HIGHER SECONDARY EDUCATION – COMPUTER SCIENCE          2021 – 2023
+
+CERTIFICATIONS
+• People and Soft Skills for Professional and Personal Success
+• Python NLTK for Beginners: Customer Satisfaction Analysis
+• SQL Joins
+• AI & Deep Learning Concepts and Applications
+• Artificial Intelligence for Real World Application
+
+LANGUAGES
+• English | Malayalam
